@@ -59,7 +59,7 @@
     <string name="auto_update_minutes">Автообновление (минут)</string>
 
     <string name="accept_http_content">Принимать только http(s)</string>
-    <string name="at_least_15_minutes">Не менее 15 minutes или пустой</string>
+    <string name="at_least_15_minutes">Не менее 15 минут или пустой</string>
     <string name="should_not_be_blank">Не должно быть пустым</string>
     <string name="detail">Детали</string>
     <string name="update">Обновить</string>
@@ -112,8 +112,8 @@
     <string name="auto_restart">Автоматический перезапуск</string>
     <string name="allow_clash_auto_restart">Разрешить Clash автоматически перезапускаться</string>
 
-    <string name="route_system_traffic">Маршрутизировать системный траффик</string>
-    <string name="routing_via_vpn_service">Автоматически маршрутизировать весь системный траффик через VpnService</string>
+    <string name="route_system_traffic">Маршрутизировать системный трафик</string>
+    <string name="routing_via_vpn_service">Автоматически маршрутизировать весь системный трафик через VpnService</string>
 
     <string name="vpn_service_options">Настройки VpnService</string>
     <string name="bypass_private_network">Игнорировать частные сети</string>
@@ -202,7 +202,7 @@
     <string name="document">Документ</string>
     <string name="feedback">Обратная связь</string>
     <string name="sources">Исходный код</string>
-    <string name="donate">Пожертвовать</string>
+    <string name="donate">Сделать пожертвование</string>
     <string name="clash_wiki">Clash Wiki</string>
     <string name="github_issues">Сообщения об ошибках на GitHub</string>
     <string name="google_play">Google Play</string>
@@ -223,8 +223,8 @@
 
     <string name="dark_mode">Тёмный режим</string>
 
-    <string name="show_traffic">Показывать траффик</string>
-    <string name="show_traffic_summary">Автоамтически обновлять счётчик трафика в уведомлении</string>
+    <string name="show_traffic">Показывать трафик</string>
+    <string name="show_traffic_summary">Автоматически обновлять счётчик трафика в уведомлении</string>
 
     <string name="follow_system_android_10">Как в системе (Android 10+)</string>
     <string name="always_dark">Всегда тёмная</string>
@@ -269,7 +269,7 @@
     <string name="close">Закрыть</string>
     <string name="keyword">Ключевое слово</string>
 
-    <string name="invalid_log_file">Недопустимй лог файл</string>
+    <string name="invalid_log_file">Недопустимый лог файл</string>
     <string name="unable_to_start_vpn">Не удалось запустить компонент VPN</string>
 
     <string name="request_donate" />
